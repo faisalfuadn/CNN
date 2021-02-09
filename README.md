@@ -1,5 +1,7 @@
 # CNN
-Unet and CNN model
+Contain CNN model.
+Tensorflow 2.3.0
+Keras 2.4.3
 
 This repository contains:
 1. ZF net
