@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jan 26 19:03:00 2021
-
-@author: suantara
-"""
-
 
 from keras.backend import sigmoid
 def swish(x, beta = 1):
