@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan 28 13:26:52 2021
-
-@author: suantara
-"""
 
 
 def cbam_block(tensor, ratio=8, activation='relu'):
