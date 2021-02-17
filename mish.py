@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jan 26 19:03:32 2021
-
-@author: suantara
-"""
 
 
 from keras import backend as K
