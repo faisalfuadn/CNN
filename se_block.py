@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan 28 13:22:43 2021
-
-@author: suantara
-"""
 
 
 def se_block(tensor, ratio=8, activation='relu'):
