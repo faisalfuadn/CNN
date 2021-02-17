@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan 28 13:19:24 2021
-
-@author: suantara
-"""
 
 from . import conv2d
 from keras import layers
