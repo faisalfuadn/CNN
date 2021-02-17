@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan 28 13:18:11 2021
-
-@author: suantara
-"""
 
 
 def VGG19(tensor, n_labels, activation='relu'):
