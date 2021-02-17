@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan 25 10:07:23 2021
-
-@author: suantara
-"""
 
 def conv2d(input_tensor, nb_filter, kernel_size=3, act='relu'):
   from keras import layers
