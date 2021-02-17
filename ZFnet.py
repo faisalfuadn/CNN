@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan 28 13:17:20 2021
 
-@author: suantara
-"""
 
 def ZFnet(tensor, nb_classes, activation='relu'):
   from keras.models import Model
